@@ -5,9 +5,9 @@
 
 ## What I do 💻
 
-  - Interested into science to business applications - I develop methods
-    for quality solution, like the identification contaminants like
-    bacteria, allergens in food based on genomic data.  
+  - Interested into “*science to business*” applications - I develop
+    methods for quality solution, like the identification contaminants
+    i.e. bacteria, allergens in complex processes with genomic data.  
   - Academic research in plant domestication, cultural evolution.
 
 ## dataviz 🎨
