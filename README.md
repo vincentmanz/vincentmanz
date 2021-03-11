@@ -1,15 +1,13 @@
-README.md
-================
 
 ### Hi there 👋
 
-![image](https://raw.githubusercontent.com/cosimameyer/cosimameyer/master/img/background_smaller.jpg)
+![image](4_3_hd.png)
 
 ## What I do 💻
 
-  - Interested into science to business application - like developping
-    methods for quality solution, like the identification contaminants
-    like bacteria, allergens in food based on genomic data.  
+  - Interested into science to business applications - I develop methods
+    for quality solution, like the identification contaminants like
+    bacteria, allergens in food based on genomic data.  
   - Academic research in plant domestication, cultural evolution.
 
 ## dataviz 🎨

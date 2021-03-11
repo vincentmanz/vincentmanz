@@ -1,10 +1,10 @@
 ---
-title: "README.md"
+title: ""
 output: github_document
 ---
 ### Hi there 👋
 
-![image](https://raw.githubusercontent.com/cosimameyer/cosimameyer/master/img/background_smaller.jpg) 
+![image](4_3_hd.png) 
 
 ## What I do 💻
 
