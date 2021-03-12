@@ -8,7 +8,9 @@
   - Interested into “*science to business*” applications - I develop
     methods for quality solution, like the identification contaminants
     i.e. bacteria, allergens in complex processes with genomic data.  
-  - Academic research in plant domestication, cultural evolution.
+  - Academic research in plant domestication, cultural evolution.  
+  - [**My scientific
+    publications**](https://scholar.google.com/citations?user=am1vgngAAAAJ&hl=en)
 
 ## dataviz 🎨
 
